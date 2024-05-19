@@ -103,8 +103,8 @@ g" alt="Laravel" width="40" height="40"/>
   </a>
 </p>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
- <img src="https://github-readme-stats.vercel.app/api?username=jyothish9988&show_icons=true&locale=en" alt="jyothish9988" style="margin: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothish9988&show_icons=true&locale=en&layout=compact" alt="jyothish9988" style="margin: 10px;" />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=jyothish9988&show_icons=true&locale=en" alt="jyothish9988" style="margin: 10px;" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothish9988&show_icons=true&locale=en&layout=compact" alt="jyothish9988" style="margin: 10px;" /> -->
 </div>
 - 🌱 I’m currently learning **Django**
 
