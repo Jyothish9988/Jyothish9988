@@ -2,26 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothish9988&label=Profile%20views&color=0e75b6&style=flat" alt="jyothish9988" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyothish9988" alt="jyothish9988" /></a> </p>
-
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [https://jyothish9988.github.io/Portfolio/](https://jyothish9988.github.io/Portfolio/)
-
-- 💬 Ask me about **Smarty Laravel Frappe Django**
-
-- 📫 How to reach me **jyothish787898@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/jyothish-s-l-52446720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jyothish-s-l-52446720b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jyothish7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothish7878" height="30" width="40" /></a>
-</p>
-
-<!-- Add this to your README.md file -->
-<!-- Add this to your README.md file -->
-
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -123,8 +103,27 @@ g" alt="Laravel" width="40" height="40"/>
   </a>
 </p>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothish9988&show_icons=true&locale=en&layout=compact" alt="jyothish9988" style="margin: 10px;" />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=jyothish9988&show_icons=true&locale=en" alt="jyothish9988" style="margin: 10px;" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothish9988&" alt="jyothish9988" style="margin: 10px;" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jyothish9988&show_icons=true&locale=en" alt="jyothish9988" style="margin: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothish9988&show_icons=true&locale=en&layout=compact" alt="jyothish9988" style="margin: 10px;" />
 </div>
+- 🌱 I’m currently learning **Django**
 
+- 👨‍💻 All of my projects are available at [https://jyothish9988.github.io/Portfolio/](https://jyothish9988.github.io/Portfolio/)
+
+- 💬 Ask me about **Smarty Laravel Frappe Django**
+
+- 📫 How to reach me **jyothish787898@gmail.com**
+
+
+
+<!-- Add this to your README.md file -->
+<!-- Add this to your README.md file -->
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/jyothish-s-l-52446720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jyothish-s-l-52446720b/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jyothish7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothish7878" height="30" width="40" /></a>
+</p>
